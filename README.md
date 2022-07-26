@@ -1,6 +1,6 @@
 # DARMPesquisa-
 Automação Teste para Pesquisa DARM
 
-//Automação formulário FakeLunch
+Teste conhecimento prático =)
 
-Teste para preencher campos obrigatórios com valores máximos
+preencher campos obrigatórios com valores máximos
